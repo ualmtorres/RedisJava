@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.jdbc.password\=sonar\r\nsonar.jdbc.username\=sonar\r\nsonar.jdbc.url\=jdbc\:jtds\:sqlserver\://sauce.ual.es/sonar;SelectMethod\=Cursor\r\nsonar.host.url\=http\://sauce.ual.es\:8090/sonar
+projectKey=es.ual.ggvd\:RedisJava
+serverUrl=http\://sauce.ual.es\:8090/sonar
+version=2
